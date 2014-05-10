@@ -58,7 +58,7 @@ public class MainFrame extends javax.swing.JFrame {
         oracleDataSource.setDatabaseName("xe");
         oracleDataSource.setServerName("143.225.117.240");
         oracleDataSource.setUser("grp2_02");
-        oracleDataSource.setPassword("o8f0Fayd");
+        oracleDataSource.setPassword("................");
         return oracleDataSource.getConnection();
     }
     
